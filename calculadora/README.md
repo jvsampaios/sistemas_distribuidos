@@ -22,7 +22,7 @@ Implementação utilizando **Pyro4** (Python Remote Objects) para abstração de
 ### 3. `HTTP/`
 Implementação de um cliente HTTP consumindo uma API REST.
 
-## 🚀 Como Executar
+## Como Executar
 
 Cada pasta possui seu próprio `README.md` com instruções detalhadas de execução. De forma resumida:
 
